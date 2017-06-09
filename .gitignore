@@ -4,3 +4,4 @@ app/start.php
 vendor/paypal/rest-api-sdk-php/tests/sdk_config.ini
 PayPal.log
 procesarCompra.php
+/vendor/
